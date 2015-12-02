@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+FridgeMilestone3/.vs/FridgeMilestone3/v14/.suo
+*.cache
+*.exe
+FridgeMilestone3/FridgeMilestone3/bin/Debug/FridgeMilestone3.pdb
