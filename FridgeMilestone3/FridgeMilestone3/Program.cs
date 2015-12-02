@@ -16,11 +16,7 @@ namespace FridgeMilestone3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new FridgeView());
-=======
-            Application.Run(new MainMenu());
->>>>>>> origin/master
         }
     }
 }
