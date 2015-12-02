@@ -28,17 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.SuspendLayout();
             // 
-            // Form1
+            // ListView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(319, 384);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
+            this.ClientSize = new System.Drawing.Size(315, 384);
+            this.Name = "ListView";
+            this.Text = "Form2";
             this.ResumeLayout(false);
 
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Text = "Form1";
+>>>>>>> parent of 103479f... Enter ListView
         }
 
         #endregion

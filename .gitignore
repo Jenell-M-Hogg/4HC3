@@ -51,6 +51,3 @@ FridgeMilestone3/.vs/FridgeMilestone3/v14/.suo
 *.exe
 FridgeMilestone3/FridgeMilestone3/bin/Debug/FridgeMilestone3.pdb
 *.suo
-*.suo
-*.csproj
-FridgeMilestone3/FridgeMilestone3/FridgeView.Designer.cs
