@@ -1,6 +1,6 @@
 ﻿namespace FridgeMilestone3
 {
-    partial class FridgeView
+    partial class MainMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // FridgeView
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "FridgeView";
-            this.Text = "FridgeView";
-            this.ResumeLayout(false);
-
+            this.Size = new System.Drawing.Size(500, 500);
+            this.Text = "Form2";
         }
 
         #endregion
