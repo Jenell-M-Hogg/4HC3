@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FridgeMilestone3
 {
-    public partial class ListView : Form
+    public partial class Form1 : Form
     {
-        public ListView()
+        public Form1()
         {
             InitializeComponent();
         }
