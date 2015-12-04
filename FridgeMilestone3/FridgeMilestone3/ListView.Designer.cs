@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
+
             this.SuspendLayout();
             // 
             // ListView
@@ -40,11 +40,11 @@
             this.Text = "Form2";
             this.ResumeLayout(false);
 
-=======
+
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Text = "Form1";
->>>>>>> parent of 103479f... Enter ListView
+
         }
 
         #endregion

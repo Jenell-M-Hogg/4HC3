@@ -1,10 +1,9 @@
 C:\Users\Emmanuel\Documents\University\SFWR ENG 4HC3\Project\4HC3\FridgeMilestone3\FridgeMilestone3\bin\Debug\FridgeMilestone3.exe.config
 C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\bin\Debug\FridgeMilestone3.exe.config
-C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.csprojResolveAssemblyReference.cache
-C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.ListView.resources
-C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.Properties.Resources.resources
-C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.csproj.GenerateResource.Cache
 C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\bin\Debug\FridgeMilestone3.exe
 C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\bin\Debug\FridgeMilestone3.pdb
+C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.Form1.resources
+C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.Properties.Resources.resources
+C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.csproj.GenerateResource.Cache
 C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.exe
 C:\Users\Jenell\Documents\GitHub\4HC3\FridgeMilestone3\FridgeMilestone3\obj\Debug\FridgeMilestone3.pdb
