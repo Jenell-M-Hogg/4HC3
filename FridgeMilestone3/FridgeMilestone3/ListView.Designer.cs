@@ -30,17 +30,16 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.headerBar = new System.Windows.Forms.Panel();
-            
             this.EditFridgeView = new System.Windows.Forms.Button();
             this.editFridgeDetails = new System.Windows.Forms.Button();
             this.addItem = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.headerBar.SuspendLayout();
             this.SuspendLayout();
             // 
             // headerBar
             // 
-            
             this.headerBar.Controls.Add(this.EditFridgeView);
             this.headerBar.Controls.Add(this.editFridgeDetails);
             this.headerBar.Controls.Add(this.addItem);
@@ -49,7 +48,6 @@
             this.headerBar.Name = "headerBar";
             this.headerBar.Size = new System.Drawing.Size(312, 45);
             this.headerBar.TabIndex = 0;
-    
             // 
             // EditFridgeView
             // 
@@ -95,11 +93,20 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Items in <Fridge Name Here>";
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(12, 77);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(301, 342);
+            this.listBox1.TabIndex = 2;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(315, 426);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.headerBar);
             this.Name = "Form1";
@@ -118,7 +125,7 @@
         private System.Windows.Forms.Button EditFridgeView;
         private System.Windows.Forms.Button editFridgeDetails;
         private System.Windows.Forms.Label label1;
-        
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 
