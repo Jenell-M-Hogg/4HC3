@@ -14,3 +14,8 @@ FridgeMilestone3/FridgeMilestone3/obj/Debug/*
 *.pdb
 *.dll
 *.suo
+FridgeMilestone3/.vs/FridgeMilestone3/v14/.suo
+*.exe
+
+*.user
+*.csproj

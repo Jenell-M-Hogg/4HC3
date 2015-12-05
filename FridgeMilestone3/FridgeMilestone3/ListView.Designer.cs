@@ -31,7 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.headerBar = new System.Windows.Forms.Panel();
             this.EditFridgeView = new System.Windows.Forms.Button();
-            this.editFridgeDetails = new System.Windows.Forms.Button();
+            this.removeItem = new System.Windows.Forms.Button();
             this.addItem = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.listBox1 = new System.Windows.Forms.ListBox();
@@ -46,7 +46,7 @@
             // headerBar
             // 
             this.headerBar.Controls.Add(this.EditFridgeView);
-            this.headerBar.Controls.Add(this.editFridgeDetails);
+            this.headerBar.Controls.Add(this.removeItem);
             this.headerBar.Controls.Add(this.addItem);
             this.headerBar.Location = new System.Drawing.Point(1, 0);
             this.headerBar.Margin = new System.Windows.Forms.Padding(0, 0, 0, 3);
@@ -67,15 +67,16 @@
             this.EditFridgeView.UseVisualStyleBackColor = true;
             this.EditFridgeView.Click += new System.EventHandler(this.EditFridgeView_Click);
             // 
-            // editFridgeDetails
+            // removeItem
             // 
-            this.editFridgeDetails.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.editFridgeDetails.Location = new System.Drawing.Point(102, 1);
-            this.editFridgeDetails.Name = "editFridgeDetails";
-            this.editFridgeDetails.Size = new System.Drawing.Size(109, 42);
-            this.editFridgeDetails.TabIndex = 1;
-            this.editFridgeDetails.Text = "Edit Fridge Details";
-            this.editFridgeDetails.UseVisualStyleBackColor = true;
+            this.removeItem.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.removeItem.Location = new System.Drawing.Point(102, 1);
+            this.removeItem.Name = "removeItem";
+            this.removeItem.Size = new System.Drawing.Size(109, 42);
+            this.removeItem.TabIndex = 1;
+            this.removeItem.Text = "Remove Items";
+            this.removeItem.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.removeItem.UseVisualStyleBackColor = true;
             // 
             // addItem
             // 
@@ -174,7 +175,7 @@
         private System.Windows.Forms.Panel headerBar;
         private System.Windows.Forms.Button addItem;
         private System.Windows.Forms.Button EditFridgeView;
-        private System.Windows.Forms.Button editFridgeDetails;
+        private System.Windows.Forms.Button removeItem;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Panel panel1;
