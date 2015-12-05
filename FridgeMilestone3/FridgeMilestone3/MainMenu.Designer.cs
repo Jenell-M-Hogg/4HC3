@@ -1,6 +1,6 @@
 ﻿namespace FridgeMilestone3
 {
-    partial class Form1
+    partial class MainMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -28,26 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
-            this.SuspendLayout();
-            // 
-            // ListView
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font; 
-            this.ClientSize = new System.Drawing.Size(315, 384);
-            this.Name = "ListView";
-            this.Text = "Form2";
-            this.ResumeLayout(false);
-
-=======
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
->>>>>>> parent of 103479f... Enter ListView
+            this.Size = new System.Drawing.Size(500, 500);
+            this.Text = "Form2";
         }
 
         #endregion
     }
 }
-
