@@ -17,12 +17,18 @@ namespace FridgeMilestone3
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void addItem_Click(object sender, EventArgs e)
         {
 
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void EditFridgeView_Click(object sender, EventArgs e)
         {
 
         }
