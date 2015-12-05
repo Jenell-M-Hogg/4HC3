@@ -13,3 +13,4 @@ FridgeMilestone3/.vs/*
 FridgeMilestone3/FridgeMilestone3/obj/Debug/*
 *.pdb
 *.dll
+*.suo
