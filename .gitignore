@@ -12,3 +12,4 @@ FridgeMilestone3/.vs/*
 *.cache
 FridgeMilestone3/FridgeMilestone3/obj/Debug/*
 *.pdb
+*.dll
